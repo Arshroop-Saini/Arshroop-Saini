@@ -6,13 +6,13 @@
 
 ## About Me
 
-<img src="https://komarev.com/ghpvc/?username=GouravKhunger&label=Profile%20views&color=70a5fd&style=flat" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=Arshroop-Singh&label=Profile%20views&color=70a5fd&style=flat" alt="Profile views" />
 
-Hi, I'm Arshroop ✌️, a 17 years old full stack android and web developer with interests in web3 too. I am student of 11th grade living in India.
+Hi, I'm Arshroop ✌️, a 17 years old full stack android and web developer with interests in computational, biomedical and sustainability research and web3 too. I am student of 11th grade living in India.
 
-I'm the founder at [Woofyverse](https://github.com/genicsblog) developer [blog](https://genicsblog.com) where we publish high quality tutorials for the developer community. I contribute to open source projects in my free time.
+I'm the founder at [Woofyverse](https://github.com/genicsblog). I contribute to open source projects in my free time.
 
-I built [JekyllEx](https://github.com/jekyllex) and now trying to port the [Jekyll](https://jekyllrb.com) SSG development experience to android devices by compiling [ruby for android](https://github.com/jekyllex/ruby-android). Interested in working together? Shoot a DM 😄
+I built [Netra](https://github.com/Netrascopy) and [Kanad](https://github.com/AgroTech-KANAD). Interested in working together? Shoot a DM 😄
 
 - 🌱 I’m currently learning advanced concepts in Deep Learning and Math
 - 👯 I’m looking to collaborate with other developers for my Web3 projects
@@ -70,12 +70,11 @@ These are the tools and languages that I have worked with and have experience ab
 
 ## Profiles
 
-- Youtube: [Gourav Khunger](https://www.youtube.com/gouravkhunger)
-- StackOverflow: [Gourav](https://stackoverflow.com/users/9819031)
-- Genics: [@gouravkhunger](https://genicsblog.com/author/gouravkhunger/)
-- Twitter: [@gourav_khunger](https://twitter.com/gourav_khunger)
-- LinkedIn: [Gourav Khunger](https://www.linkedin.com/in/gourav-khunger-584351216/)
-- Discord: gourav#2215
+- LinkedIn: [Arshroop Singh Saini](https://www.linkedin.com/in/arshroop-saini-a376a21b9/)
+- Youtube: [Arshroop Singh](https://www.youtube.com/channel/UCNauWZyvrfXVbYC2Gs16pLw)
+- Science Open: [Arshroop Singh Saini](###)
+- Twitter: [@Arshroop_Saini](https://twitter.com/ArshroopSaini)
+- Discord: Arshroop#6804
 
 ## Github Stats
 
