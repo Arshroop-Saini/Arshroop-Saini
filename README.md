@@ -1,20 +1,40 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&width=600&lines=Welcome+To+Arshroop's+GitHub+Profile!)](https://git.io/typing-svg)
+# ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1&vCenter=true&width=800&color=fa8c01&lines=Welcome+to+my+Den+!;I+am+:;A+Social+Entrepreneur;Self+taught+Programmer;Dry+Lab+Researcher;Engineer)
 
-<h1 align="center">Hi M&TSI, 👋 I'm Arshroop <img src="https://res.cloudinary.com/woofyverse/image/upload/v1675349027/banner_uvv2jm.png" width="30px" height='30px'></h1>
+<h1 align="center">Hi, 👋 I'm Arshroop </h1>
+<p>
+<a href="https://twitter.com/ArshroopSaini">
+   <img align="left" alt="twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+</a>&nbsp;&nbsp;
 
-![banner smaller size](https://user-images.githubusercontent.com/76690419/191395838-1600a7d2-ba0f-47e0-bd17-a8f167c6a3bf.png)
+<a href="https://www.youtube.com/channel/UCNauWZyvrfXVbYC2Gs16pLw">
+   <img align="left" alt="youtube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+</a>&nbsp;&nbsp;
+
+<a href="https://discord.com/users/Arshroop#6804">
+   <img align="left" alt="discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
+</a>&nbsp;&nbsp;
+
+<a href="https://www.linkedin.com/in/arshroop-saini-a376a21b9/">
+   <img align="left" alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<p/>  
+<br>
+
+![banner smaller size](https://res.cloudinary.com/woofyverse/image/upload/v1675349027/banner_uvv2jm.png)  
+
+## Trophies
 
 <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=GouravKhunger&theme=darkhub&margin-w=15&margin-h=15&column=6&v=2" alt="Arshroop's stats" />
+    <img src="https://github-profile-trophy.vercel.app/?username=GouravKhunger&theme=darkhub&margin-w=15&margin-h=15&column=6&v=2" alt="Gourav's stats" />
 </p>
 
 ## About Me
 
 <img src="https://komarev.com/ghpvc/?username=GouravKhunger&label=Profile%20views&color=70a5fd&style=flat" alt="Profile views" />
 
-Hi, I'm Arshroop ✌️, a 17 years old full stack android + web developer and a hardware (Arduino) engineer, with interests in computational, biomedical, sustainability research and web3 development. I am student of 11th grade living in India.
+Hi, I'm Arshroop ✌️, a 17 years old Full Stack Android & Web developer and a hardware (Arduino) engineer, with interests in computational, biomedical, and sustainability research. I'm highly into Web3 development and have experience building dapp's on the Ethereum and the Internet Computer Blockchain. I'm also actively investing into cryptocurrencies. My [NFT](https://github.com/Arshroop-Singh/NFT) collection.
 
-I'm the founder at [Woofyverse](https://woofyverse.in). I'm currently conducting an institutional research funded completely by IIT Bombay where we're working on Hydrogen fuel cells. I contribute to open source projects in my free time.
+I'm the founder at [Woofyverse](https://woofyverse.in). And currently conducting an institutional  funded research where we're working on manufacturing efficient and affordable Hydrogen fuel cells. I contribute to open source projects in my free time.
 
 I built [Netra](https://github.com/Netrascopy) and [Kanad](https://github.com/AgroTech-KANAD) and am currently working to scale them to reach and impact as many rural households in India and provide them with affordable and effiecient healthcare and agriculural services. Interested in working together? Shoot a DM 😄
 
@@ -71,13 +91,9 @@ These are the tools and languages that I have worked with and have experience ab
 ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
 ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)
 
-## Profiles
-
-- LinkedIn: [Arshroop Singh Saini](https://www.linkedin.com/in/arshroop-saini-a376a21b9/)
-- Youtube: [Arshroop Singh](https://www.youtube.com/channel/UCNauWZyvrfXVbYC2Gs16pLw)
+## Research Profiles
 - Science Open: [Arshroop Singh Saini](###)
-- Twitter: [@Arshroop_Saini](https://twitter.com/ArshroopSaini)
-- Discord: Arshroop#6804
+
 
 ## Github Stats
 
@@ -87,12 +103,20 @@ These are the tools and languages that I have worked with and have experience ab
       <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=avneesh0612&theme=radical" />
 </p>
 
-### My Holopin Badges
+## Support me
+Like my work? You can support me by:
+Send some ETH - `Arshroop.eth`
+or some SOL - `Arshroop.sol`
+Buying me a coffee
+<a href="https://www.buymeacoffee.com/Arshroop" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" style="height: 40px !important;" ></a>
 
-![@Arshroop's Holopin board](https://holopin.me/kai_11)
-
-### Novu Contributor Badge
-
-<img src="https://contributors.novu.co/profiles/kailashchoudhary11-small.jpg" height="170" width="450" alt="" />
+# Recent GitHub Activity
+<!--START_SECTION:activity-->
+1. 🗣 Commented on [#14109](https://github.com/nrwl/nx/issues/14109) in [nrwl/nx](https://github.com/nrwl/nx)
+2. ❗️ Opened issue [#57](https://github.com/githubpartners/microsoft-learn/issues/57) in [githubpartners/microsoft-learn](https://github.com/githubpartners/microsoft-learn)
+3. ❗️ Opened issue [#56](https://github.com/githubpartners/microsoft-learn/issues/56) in [githubpartners/microsoft-learn](https://github.com/githubpartners/microsoft-learn)
+4. ❌ Closed PR [#9657](https://github.com/auth0/docs/pull/9657) in [auth0/docs](https://github.com/auth0/docs)
+5. ❌ Closed PR [#4383](https://github.com/cypress-io/cypress-documentation/pull/4383) in [cypress-io/cypress-documentation](https://github.com/cypress-io/cypress-documentation)
+<!--END_SECTION:activity-->
 
 ![Arshroop's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Arshroop-Singh&theme=tokyo-night)
