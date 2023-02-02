@@ -10,7 +10,7 @@
 
 Hi, I'm Arshroop ✌️, a 17 years old full stack android and web developer and a hardware (Arduino) engineer, with interests in computational, biomedical, sustainability research and web3 development. I am student of 11th grade living in India.
 
-I'm the founder at [Woofyverse](https://github.com/genicsblog). I'm currently conducting an institutional research funded completely by IIT Bombay where we're working on Hydrogen fuel cells. I contribute to open source projects in my free time.
+I'm the founder at [Woofyverse](https://woofyverse.in). I'm currently conducting an institutional research funded completely by IIT Bombay where we're working on Hydrogen fuel cells. I contribute to open source projects in my free time.
 
 I built [Netra](https://github.com/Netrascopy) and [Kanad](https://github.com/AgroTech-KANAD) and am currently working to scale them to reach and impact as many rural households in India and them with affordable and effiecient services. Interested in working together? Shoot a DM 😄
 
