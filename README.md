@@ -88,4 +88,12 @@ These are the tools and languages that I have worked with and have experience ab
       <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=avneesh0612&theme=radical" />
 </p>
 
+### My Holopin Badges
+
+[![@Arshroop's Holopin board](https://holopin.me/kai_11)]
+
+### Novu Contributor Badge
+
+<a href="##"><img src="https://contributors.novu.co/profiles/kailashchoudhary11-small.jpg" height="170" width="450" alt="" /></a>
+
 [![Arshroop's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=SantoshYadavDev&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
