@@ -14,18 +14,18 @@ I'm the founder at [Woofyverse](https://github.com/genicsblog) developer [blog](
 
 I built [JekyllEx](https://github.com/jekyllex) and now trying to port the [Jekyll](https://jekyllrb.com) SSG development experience to android devices by compiling [ruby for android](https://github.com/jekyllex/ruby-android). Interested in working together? Shoot a DM 😄
 
-- 🌱 I’m currently learning advanced concepts in android development
-- 👯 I’m looking to collaborate with other content creators
-- ⚡ Fun fact: I love to talk 😅
+- 🌱 I’m currently learning advanced concepts in Deep Learning and Math
+- 👯 I’m looking to collaborate with other developers for my Web3 projects
+- ⚡ Fun fact: I love to connect with like minded peers 🚀
 
 ## Tools / Languages
 
 These are the tools and languages that I have worked with and have experience about using them.
 
-![Kotlin](https://img.shields.io/badge/-Kotlin-05122A?style=flat&logo=kotlin)
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
+![Javascript](https://img.shields.io/badge/-Javascript-05122A?style=flat&logo=Javascript)
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java)
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=c%2B%2B)
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
 ![Dart](https://img.shields.io/badge/-Dart-05122A?style=flat&logo=Dart)
 ![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php)
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)
@@ -34,11 +34,9 @@ These are the tools and languages that I have worked with and have experience ab
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)
-![Gradle](https://img.shields.io/badge/-Gradle-05122A?style=flat&logo=gradle)
 ![Android Studio](https://img.shields.io/badge/-Android%20Studio-05122A?style=flat&logo=android-studio)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)
 ![IntelliJ Idea](https://img.shields.io/badge/-IntelliJ%20Idea-05122A?style=flat&logo=intellij-idea)
-![Clion](https://img.shields.io/badge/-CLion-05122A?style=flat&logo=clion)
 ![Premier Pro](https://img.shields.io/badge/-Premiere%20Pro-05122A?style=flat&logo=adobe-premiere%20pro)
 ![Office](https://img.shields.io/badge/-Office-05122A?style=flat&logo=microsoft-office&logoColor=D83B01)
 
