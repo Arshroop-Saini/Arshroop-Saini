@@ -8,11 +8,11 @@
 
 <img src="https://komarev.com/ghpvc/?username=GouravKhunger&label=Profile%20views&color=70a5fd&style=flat" alt="Profile views" />
 
-Hi, I'm Arshroop ✌️, a 17 years old full stack android and web developer and a hardware (Arduino) engineer, with interests in computational, biomedical, sustainability research and web3 development. I am student of 11th grade living in India.
+Hi, I'm Arshroop ✌️, a 17 years old full stack android + web developer and a hardware (Arduino) engineer, with interests in computational, biomedical, sustainability research and web3 development. I am student of 11th grade living in India.
 
 I'm the founder at [Woofyverse](https://woofyverse.in). I'm currently conducting an institutional research funded completely by IIT Bombay where we're working on Hydrogen fuel cells. I contribute to open source projects in my free time.
 
-I built [Netra](https://github.com/Netrascopy) and [Kanad](https://github.com/AgroTech-KANAD) and am currently working to scale them to reach and impact as many rural households in India and them with affordable and effiecient services. Interested in working together? Shoot a DM 😄
+I built [Netra](https://github.com/Netrascopy) and [Kanad](https://github.com/AgroTech-KANAD) and am currently working to scale them to reach and impact as many rural households in India and provide them with affordable and effiecient healthcare and agriculural services. Interested in working together? Shoot a DM 😄
 
 - 🌱 I’m currently learning advanced concepts in Deep Learning and Math
 - 👯 I’m looking to collaborate with other developers for my Web3 projects
