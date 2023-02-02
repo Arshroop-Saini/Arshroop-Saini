@@ -90,7 +90,7 @@ These are the tools and languages that I have worked with and have experience ab
 
 ### My Holopin Badges
 
-[![@Arshroop's Holopin board](https://holopin.me/kai_11)]
+![@Arshroop's Holopin board](https://holopin.me/kai_11)
 
 ### Novu Contributor Badge
 
