@@ -1,4 +1,8 @@
-# Hi there 👋 I'm [Arshroop](https://arshroop-singh.github.io/cleanfolio)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&width=600&lines=Welcome+To+Arshroop's+GitHub+Profile!)](https://git.io/typing-svg)
+
+<h1 align="center">Hi, I'm Arshroop <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height='30px'></h1>
+
+![banner smaller size](https://user-images.githubusercontent.com/76690419/191395838-1600a7d2-ba0f-47e0-bd17-a8f167c6a3bf.png)
 
 <p align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=GouravKhunger&theme=darkhub&margin-w=15&margin-h=15&column=6&v=2" alt="Gourav's stats" />
