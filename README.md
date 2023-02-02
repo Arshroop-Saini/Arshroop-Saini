@@ -20,6 +20,7 @@
 <p/>  
 <br>
 
+## Badges
 ![banner smaller size](https://res.cloudinary.com/woofyverse/image/upload/v1675349027/banner_uvv2jm.png)  
 
 ## Trophies
@@ -110,7 +111,7 @@ or some SOL - `Arshroop.sol`
 Buying me a coffee
 <a href="https://www.buymeacoffee.com/Arshroop" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" style="height: 40px !important;" ></a>
 
-# Recent GitHub Activity
+## Recent GitHub Activity
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#14109](https://github.com/nrwl/nx/issues/14109) in [nrwl/nx](https://github.com/nrwl/nx)
 2. ❗️ Opened issue [#57](https://github.com/githubpartners/microsoft-learn/issues/57) in [githubpartners/microsoft-learn](https://github.com/githubpartners/microsoft-learn)
