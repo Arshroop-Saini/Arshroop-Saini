@@ -61,7 +61,6 @@ These are the tools and languages that I have worked with and have experience ab
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
 ![Mocha](https://img.shields.io/badge/-mocha-%238D6748?style=for-the-badge&logo=mocha&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)
 ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 ![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
@@ -94,6 +93,6 @@ These are the tools and languages that I have worked with and have experience ab
 
 ### Novu Contributor Badge
 
-<a href="##"><img src="https://contributors.novu.co/profiles/kailashchoudhary11-small.jpg" height="170" width="450" alt="" /></a>
+<img src="https://contributors.novu.co/profiles/kailashchoudhary11-small.jpg" height="170" width="450" alt="" />
 
-[![Arshroop's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=SantoshYadavDev&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![Arshroop's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Arshroop-Singh&theme=tokyo-night)
