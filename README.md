@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&width=600&lines=Welcome+To+Arshroop's+GitHub+Profile!)](https://git.io/typing-svg)
 
-<h1 align="center">Hi there, 👋 I'm Arshroop <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height='30px'></h1>
+<h1 align="center">Hi M&TSI, 👋 I'm Arshroop <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height='30px'></h1>
 
 ![banner smaller size](https://user-images.githubusercontent.com/76690419/191395838-1600a7d2-ba0f-47e0-bd17-a8f167c6a3bf.png)
 
@@ -87,3 +87,5 @@ These are the tools and languages that I have worked with and have experience ab
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arshroop-Singh&langs_count=8&hide=c%2B%2B&layout=compact&theme=tokyonight" alt="Arshroop Singh's top used programming language stats" />
       <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=avneesh0612&theme=radical" />
 </p>
+
+[![Santosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=SantoshYadavDev&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
