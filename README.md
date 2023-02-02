@@ -88,4 +88,4 @@ These are the tools and languages that I have worked with and have experience ab
       <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=avneesh0612&theme=radical" />
 </p>
 
-[![Santosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=SantoshYadavDev&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Arshroop's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=SantoshYadavDev&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
