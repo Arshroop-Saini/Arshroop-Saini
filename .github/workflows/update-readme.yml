@@ -2,7 +2,7 @@ name: Update README
 
 on:
   schedule:
-    # Runs every first and 12 hrs.
+    # Runs every first and 12 hours.
     - cron: '*/30 * * * *' # Update every 30 minutes
   workflow_dispatch:
 
