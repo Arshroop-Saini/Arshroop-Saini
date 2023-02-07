@@ -112,12 +112,8 @@ Buying me a coffee
 <a href="https://www.buymeacoffee.com/Arshroop" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" style="height: 40px !important;" ></a>
 
 ## Recent GitHub Activity
-<!--START_SECTION:activity-->
-1. 🗣 Commented on [#14109](https://github.com/nrwl/nx/issues/14109) in [nrwl/nx](https://github.com/nrwl/nx)
-2. ❗️ Opened issue [#57](https://github.com/githubpartners/microsoft-learn/issues/57) in [githubpartners/microsoft-learn](https://github.com/githubpartners/microsoft-learn)
-3. ❗️ Opened issue [#56](https://github.com/githubpartners/microsoft-learn/issues/56) in [githubpartners/microsoft-learn](https://github.com/githubpartners/microsoft-learn)
-4. ❌ Closed PR [#9657](https://github.com/auth0/docs/pull/9657) in [auth0/docs](https://github.com/auth0/docs)
-5. ❌ Closed PR [#4383](https://github.com/cypress-io/cypress-documentation/pull/4383) in [cypress-io/cypress-documentation](https://github.com/cypress-io/cypress-documentation)
-<!--END_SECTION:activity-->
+<!--RECENT_ACTIVITY:start-->
+
+<!--RECENT_ACTIVITY:last_update-->
 
 ![Arshroop's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Arshroop-Singh&theme=tokyo-night)
