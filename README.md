@@ -106,8 +106,8 @@ These are the tools and languages that I have worked with and have experience ab
 
 ## Support me
 Like my work? You can support me by:
-Send some ETH - `Arshroop.eth`
-or some SOL - `Arshroop.sol`
+Send some ETH - `arshroop.eth`
+or some SOL - `arshroop.sol`
 Buying me a coffee
 <a href="https://www.buymeacoffee.com/Arshroop" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" style="height: 40px !important;" ></a>
 
