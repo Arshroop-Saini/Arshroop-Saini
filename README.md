@@ -40,7 +40,9 @@ I'm the founder at [Woofyverse](https://woofyverse.in). And currently conducting
 I built [Netra](https://netrascopy.in)[[App]](https://app.netrascopy.in) and [Kanad](https://kanad.net.in)[[App]](https://kanad.onrender.com)and am currently working to scale them to reach and impact as many rural households in India and provide them with affordable and effiecient healthcare and agriculural services.
 
 I'm the CTO at [Speed Up AI](https://speedupa.in)[[App]](https://app.speedupai.in) A machine learning data labeling service that utilizes a crowdsourcing approach to efficiently and accurately label data in a cost-effective and dependable manner. It aims to address a widespread issue in the development of AI models in both startups and university labs, which is data labeling.
+
 I co-developed [Dhanwantari](https://dhanwantari.co.in) An innovative application built to enhance the healthcare experience for both patients and doctors. It achieves this by offering precise medical information, efficient prediction of diseases, real-time monitoring of patients, telehealth services, and implementing preventative measures to slow down the progression of illnesses. By doing so, it improves service delivery in the healthcare industry.
+
 I'm the CMO at [Girls In Stem](https://girlsinstem.org) A student-run, international, non-profit organization that builds accessible and innovative projects to help underrepresented communities explore STEM fields.
 
 Interested in working together? Shoot a DM 😄
