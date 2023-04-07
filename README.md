@@ -101,7 +101,7 @@ These are the tools and languages that I have worked with and have experience ab
 ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)
 
 ## Research Profiles
-- Science Open: [Arshroop Singh Saini](###)
+- Research Gate: [Arshroop Singh Saini](https://www.researchgate.net/profile/Arshroop-Saini)
 
 
 ## Github Stats
