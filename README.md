@@ -1,6 +1,6 @@
 # ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1&vCenter=true&width=800&color=fa8c01&lines=Welcome+to+my+Den+!;I+am+:;A+Social+Entrepreneur;Self+taught+Programmer;Dry+Lab+Researcher;Engineer)
 
-<h1 align="center">Hi, 👋 I'm Arshroop </h1>
+<h1 align="center">Hey, 👋 I'm Arshroop </h1>
 <p>
 <a href="https://twitter.com/ArshroopSaini">
    <img align="left" alt="twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
