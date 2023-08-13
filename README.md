@@ -108,7 +108,7 @@ These are the tools and languages that I have worked with and have experience ab
 
 <p align="center">
     <img height="190" src="https://github-readme-stats.vercel.app/api?username=Arshroop-Singh&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight" alt="Arshroop Singh's open source stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arshroop-Singh&langs_count=8&hide=c%2B%2B&layout=compact&theme=tokyonight" alt="Arshroop Singh's top used programming language stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arshroop-Saini&langs_count=8&hide=c%2B%2B&layout=compact&theme=tokyonight" alt="Arshroop Singh's top used programming language stats" />
       <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=avneesh0612&theme=radical" />
 </p>
 
