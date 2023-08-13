@@ -33,7 +33,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=GouravKhunger&label=Profile%20views&color=70a5fd&style=flat" alt="Profile views" />
 
-Hi, I'm Arshroop ✌️, a 17 years old Full Stack Android & Web developer and a hardware (Arduino) engineer, with interests in computational, biomedical, and sustainability research. I'm highly into Web3 development and have experience building dapp's on the Ethereum and the Internet Computer Blockchain. I'm also actively investing into cryptocurrencies. My [NFT](https://github.com/Arshroop-Singh/NFT) collection.
+Hi, I'm Arshroop ✌️, a 17 years old Full Stack Android & Web developer and a hardware (Arduino) engineer, with interests in computational, biomedical, and sustainability research. I'm highly into Web3 development and have experience building dapp's on the Ethereum and the Internet Computer Blockchain. I'm also actively investing into cryptocurrencies. My [NFT](https://github.com/Arshroop-Saini/NFT) collection.
 
 I'm the founder at [Woofyverse](https://woofyverse.in). And currently conducting an institutional  funded research where we're working on manufacturing efficient and affordable Hydrogen fuel cells. I contribute to open source projects in my free time.
 
@@ -107,7 +107,7 @@ These are the tools and languages that I have worked with and have experience ab
 ## Github Stats
 
 <p align="center">
-    <img height="190" src="https://github-readme-stats.vercel.app/api?username=Arshroop-Singh&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight" alt="Arshroop Singh's open source stats" />
+    <img height="190" src="https://github-readme-stats.vercel.app/api?username=Arshroop-Saini&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight" alt="Arshroop Singh's open source stats" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arshroop-Saini&langs_count=8&hide=c%2B%2B&layout=compact&theme=tokyonight" alt="Arshroop Singh's top used programming language stats" />
       <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=avneesh0612&theme=radical" />
 </p>
@@ -124,4 +124,4 @@ Buying me a coffee
 
 <!--RECENT_ACTIVITY:last_update-->
 
-![Arshroop's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Arshroop-Singh&theme=tokyo-night)
+![Arshroop's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Arshroop-Saini&theme=tokyo-night)
