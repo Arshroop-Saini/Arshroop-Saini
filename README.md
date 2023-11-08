@@ -33,7 +33,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=GouravKhunger&label=Profile%20views&color=70a5fd&style=flat" alt="Profile views" />
 
-Hi, I'm Arshroop ✌️, a 17 years old Full Stack Android & Web developer and a hardware (Arduino) engineer, with interests in ML, Energy, and sustainability research. I'm highly into Web3 development and have experience building dapp's on the Ethereum and the Internet Computer Blockchain. I'm also actively investing into cryptocurrencies. My [NFT](https://github.com/Arshroop-Saini/NFT) collection.
+Hi, I'm Arshroop ✌️, a 17 years old Full Stack Android & Machine Learning developer and a hardware (Arduino) engineer, with interests in ML, Energy, and sustainability research. I'm highly into Web3 development and have experience building dapp's on the Ethereum and the Internet Computer Blockchain. I'm also actively investing into cryptocurrencies. My [NFT](https://github.com/Arshroop-Saini/NFT) collection.
 
 I developed [ClimateWise](https://climatewise.org.in) ([App](https://climatewise.onrender.com)) A Web App that creates awareness about lesser known climate change challenges by providing infographics, facts and statistics in the form of interactive grpahs and widgets.
 
