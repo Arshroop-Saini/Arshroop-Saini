@@ -35,7 +35,7 @@
 
 Hi, I'm Arshroop ✌️, a 17 years old Full Stack Android & Web developer and a hardware (Arduino) engineer, with interests in ML, Energy, and sustainability research. I'm highly into Web3 development and have experience building dapp's on the Ethereum and the Internet Computer Blockchain. I'm also actively investing into cryptocurrencies. My [NFT](https://github.com/Arshroop-Saini/NFT) collection.
 
-I developed [ClimateWise](https://climatewise.org.in) [App](https://climatewise.onrender.com) A Web App that creates awareness about lesser known climate change challenges by providing infographics, facts and statistics in the form of interactive grpahs and widgets.
+I developed [ClimateWise](https://climatewise.org.in) ([App](https://climatewise.onrender.com)) A Web App that creates awareness about lesser known climate change challenges by providing infographics, facts and statistics in the form of interactive grpahs and widgets.
 
 I built [Netra](https://netrascopy.in) [App](https://netrascopy.onrender.com). A low-cost and easy-to-use kit for early detection of diabetic retinopathy. I co-developed [Scigy](https://scigy.in) [App](https://kanad.onrender.com) with my school friend Aditya. Kanad is a project under Scigy Technologies, it is an Internet of Things (IoT)-enabled intelligent irrigation system designed to solve the problem of inefficiency in traditional farming methods. I am currently working to scale Netra and Kanad to reach and impact as many rural households in my villages in Punjab, Haryana and Madhya Pradesh and provide them with affordable and effiecient healthcare and agriculural services. 
 
