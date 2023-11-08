@@ -1,4 +1,4 @@
-# ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1&vCenter=true&width=800&color=fa8c01&lines=Welcome+to+my+Den+!;I+am+:;A+Social+Entrepreneur;Self+taught+Programmer;Dry+Lab+Researcher;Engineer)
+# ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1&vCenter=true&width=800&color=fa8c01&lines=Welcome+to+my+Den+!;I+am+:;A+Social+Entrepreneur;Self+taught+Programmer;Dry+Lab+Researcher;Climate+Advocate;Environmentalist)
 
 <h1 align="center">Hey, 👋 I'm Arshroop </h1>
 <p>
