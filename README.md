@@ -33,23 +33,27 @@
 
 <img src="https://komarev.com/ghpvc/?username=GouravKhunger&label=Profile%20views&color=70a5fd&style=flat" alt="Profile views" />
 
-Hi, I'm Arshroop ✌️, a 17 years old Full Stack Android & Web developer and a hardware (Arduino) engineer, with interests in computational, biomedical, and sustainability research. I'm highly into Web3 development and have experience building dapp's on the Ethereum and the Internet Computer Blockchain. I'm also actively investing into cryptocurrencies. My [NFT](https://github.com/Arshroop-Saini/NFT) collection.
+Hi, I'm Arshroop ✌️, a 17 years old Full Stack Android & Web developer and a hardware (Arduino) engineer, with interests in ML, Energy, and sustainability research. I'm highly into Web3 development and have experience building dapp's on the Ethereum and the Internet Computer Blockchain. I'm also actively investing into cryptocurrencies. My [NFT](https://github.com/Arshroop-Saini/NFT) collection.
 
-I'm the founder at [Woofyverse](https://woofyverse.in). And currently conducting an institutional  funded research where we're working on manufacturing efficient and affordable Hydrogen fuel cells. I contribute to open source projects in my free time.
+I developed [ClimateWise](https://climatewise.org.in) [App](https://climatewise.onrender.com) A Web App that creates awareness about lesser known climate change challenges by providing infographics, facts and statistics in the form of interactive grpahs and widgets.
 
-I built [Netra](https://netrascopy.in)[[App]](https://app.netrascopy.in) and [Kanad](https://kanad.net.in)[[App]](https://kanad.onrender.com)and am currently working to scale them to reach and impact as many rural households in India and provide them with affordable and effiecient healthcare and agriculural services.
+I built [Netra](https://netrascopy.in) [App](https://netrascopy.onrender.com). A low-cost and easy-to-use kit for early detection of diabetic retinopathy. I co-developed [Scigy](https://scigy.in) [App](https://kanad.onrender.com) with my school friend Aditya. Kanad is a project under Scigy Technologies, it is an Internet of Things (IoT)-enabled intelligent irrigation system designed to solve the problem of inefficiency in traditional farming methods. I am currently working to scale Netra and Kanad to reach and impact as many rural households in my villages in Punjab, Haryana and Madhya Pradesh and provide them with affordable and effiecient healthcare and agriculural services. 
 
-I'm the CTO at [Speed Up AI](https://speedupa.in)[[App]](https://app.speedupai.in) A machine learning data labeling service that utilizes a crowdsourcing approach to efficiently and accurately label data in a cost-effective and dependable manner. It aims to address a widespread issue in the development of AI models in both startups and university labs, which is data labeling.
+I'm the founder at [Woofyverse](https://woofyverse.in). An AI enabled app to match potential adopters with homeless dogs. Till now we've rehomed over 55 dogs and neutered 35+ stray dogs with the help of our 500+ diligent volunteers.
 
-I co-developed [Dhanwantari](https://dhanwantari.co.in) An innovative application built to enhance the healthcare experience for both patients and doctors. It achieves this by offering precise medical information, efficient prediction of diseases, real-time monitoring of patients, telehealth services, and implementing preventative measures to slow down the progression of illnesses. By doing so, it improves service delivery in the healthcare industry.
+I'm the CTO at [Kick](https://kick.net.in). The ultimate platform for active soccer enthusiasts aged 15-35, providing convenient booking and connecting players through an extensive network of pithes and like minded individuals.
 
-I'm the CMO at [Girls In Stem](https://girlsinstem.org) A student-run, international, non-profit organization that builds accessible and innovative projects to help underrepresented communities explore STEM fields.
+Currently working on [DhwaniAnk](https://arshroopsaini.in/l/portfolio/scigy) An IoT Glove that could convert hand gestures into word-by-word Hindi language translation and speech by leveraging Google Text-to-Speech (gTTS) and pyttsx3 (Python Text-to-Speech).
+
+
 
 Interested in working together? Shoot a DM 😄
 
-- 🌱 I’m currently learning advanced concepts in Deep Learning and Math
-- 👯 I’m looking to collaborate with other developers for my Web3 projects
-- ⚡ Fun fact: I love to connect with like minded peers and learn from everyone 🚀
+- 🌱 I’m currently learning advanced concepts in Deep Learning and Math.
+- 👯 I’m looking to collaborate with other developers for my sustainability projects.
+- ⚡ Fun fact: I love to connect with like minded peers and always open to learn 🚀
+- 👩‍💻 I contribute to open source projects in my free time.
+- ⚽ I'm a football nerd.
 
 ## Tools / Languages
 
