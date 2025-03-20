@@ -53,7 +53,7 @@ Interested in working together? Shoot a DM 😄
 - 👯 I’m looking to collaborate with other developers for my sustainability projects.
 - ⚡ Fun fact: I love to connect with like minded peers and always open to learn 🚀
 - 👩‍💻 I contribute to open source projects in my free time.
-- ⚽ I'm a football nerd.
+- ⚽ I'm a football nerd
 
 ## Tools / Languages
 
