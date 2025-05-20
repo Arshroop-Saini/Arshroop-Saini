@@ -50,9 +50,9 @@ Also worked on [DhwaniAnk](https://arshroopsaini.in/l/portfolio/scigy) An IoT Gl
 Interested in working together? Shoot a DM 😄
 
 - 🌱 I’m currently learning advanced concepts in Deep Learning and Math.
-- 👯 I’m looking to collaborate with other developers for my sustainability projects.
+- 🎙️ I produce music
 - ⚡ Fun fact: I love to connect with like minded peers and always open to learn 🚀
-- 👩‍💻 I contribute to open source projects in my free time.
+- 👩‍💻 Building AI agents with access to wallets @crossmint.
 - ⚽ I'm a football nerd
 
 ## Tools / Languages
