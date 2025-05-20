@@ -33,7 +33,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=GouravKhunger&label=Profile%20views&color=70a5fd&style=flat" alt="Profile views" />
 
-Hi, I'm Arshroop ✌️, a 17 years old Full Stack Android & Machine Learning developer and a hardware (Arduino) engineer, with interests in ML, Energy, and sustainability research. I'm highly into Web3 development and have experience building dapp's on the Ethereum and the Internet Computer Blockchain. I'm also actively investing into cryptocurrencies. My [NFT](https://github.com/Arshroop-Saini/NFT) collection.
+Hi, I'm Arshroop ✌️, a 19 years old Full Stack dev and AI engineer.
 
 I developed [ClimateWise](https://climatewise.org.in) ([App](https://climatewisemain.onrender.com)) A Web App that creates awareness about lesser known climate change challenges by providing infographics, facts and statistics in the form of interactive grpahs and widgets.
 
@@ -41,9 +41,9 @@ I built [Netra](https://netrascopy.in) ([App](https://netrascopy-app.onrender.co
 
 I'm the founder at [Woofyverse](https://woofyverse.in). An AI enabled app to match potential adopters with homeless dogs. Till now we've rehomed over 55 dogs and neutered 35+ stray dogs with the help of our 500+ diligent volunteers.
 
-I'm the CTO at [Kick](https://kick.net.in). The ultimate platform for active soccer enthusiasts aged 15-35, providing convenient booking and connecting players through an extensive network of pithes and like minded individuals.
+Started [Kick](https://kick.net.in) as part of the LaunchX accelerator. The ultimate platform for active soccer enthusiasts aged 15-35, providing convenient booking and connecting players through an extensive network of pithes and like minded individuals.
 
-Currently working on [DhwaniAnk](https://arshroopsaini.in/l/portfolio/scigy) An IoT Glove that could convert hand gestures into word-by-word Hindi language translation and speech by leveraging Google Text-to-Speech (gTTS) and pyttsx3 (Python Text-to-Speech).
+Also worked on [DhwaniAnk](https://arshroopsaini.in/l/portfolio/scigy) An IoT Glove that could convert hand gestures into word-by-word Hindi language translation and speech by leveraging Google Text-to-Speech (gTTS) and pyttsx3 (Python Text-to-Speech).
 
 
 
