@@ -31,7 +31,7 @@
 
 ## About Me
 
-<img src="https://komarev.com/ghpvc/?username=GouravKhunger&label=Profile%20views&color=70a5fd&style=flat" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=Arshroop-Saini&label=Profile%20views&color=70a5fd&style=flat" alt="Profile views" />
 
 Hi, I'm Arshroop ✌️, a 19 years old Full Stack dev and AI engineer.
 
