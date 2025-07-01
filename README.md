@@ -26,7 +26,7 @@
 ## Trophies
 
 <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=GouravKhunger&theme=darkhub&margin-w=15&margin-h=15&column=6&v=2" alt="Gourav's stats" />
+    <img src="https://github-profile-trophy.vercel.app/?username=Arshroop-Saini&theme=darkhub&margin-w=15&margin-h=15&column=6&v=2" alt="Arshroop's stats" />
 </p>
 
 ## About Me
