@@ -35,23 +35,11 @@
 
 Hi, I'm Arshroop ✌️, a 19 years old Full Stack dev and AI engineer.
 
-I developed [ClimateWise](https://climatewise.org.in) ([App](https://climatewisemain.onrender.com)) A Web App that creates awareness about lesser known climate change challenges by providing infographics, facts and statistics in the form of interactive grpahs and widgets.
-
-I built [Netra](https://netrascopy.in) ([App](https://netrascopy-app.onrender.com)). A low-cost and easy-to-use kit for early detection of diabetic retinopathy. I co-developed [Scigy](https://scigy.in) ([App](https://kanad-app.onrender.com)) with my school friend Aditya. Kanad is a project under Scigy Technologies, it is an Internet of Things (IoT)-enabled intelligent irrigation system designed to solve the problem of inefficiency in traditional farming methods. After achieving a milestone of disributing and testing over 120 kits with diabetic patients and aiding over 80+ farmers, I am working to scale Netra and Kanad to reach and impact as many rural households in my villages in Punjab, Haryana and Madhya Pradesh and provide them with affordable and effiecient healthcare and agriculural services. 
-
-I'm the founder at [Woofyverse](https://woofyverse.in). An AI enabled app to match potential adopters with homeless dogs. Till now we've rehomed over 55 dogs and neutered 35+ stray dogs with the help of our 500+ diligent volunteers.
-
-Started [Kick](https://kick.net.in) as part of the LaunchX accelerator. The ultimate platform for active soccer enthusiasts aged 15-35, providing convenient booking and connecting players through an extensive network of pithes and like minded individuals.
-
-Also worked on [DhwaniAnk](https://arshroopsaini.in/l/portfolio/scigy) An IoT Glove that could convert hand gestures into word-by-word Hindi language translation and speech by leveraging Google Text-to-Speech (gTTS) and pyttsx3 (Python Text-to-Speech).
-
-
-
 Interested in working together? Shoot a DM 😄
 
 - 🌱 I’m currently learning advanced concepts in Deep Learning and Math.
 - 🎙️ I produce music
-- ⚡ Fun fact: I love to connect with like minded peers and always open to learn 🚀
+- ⚡ Fun fact: I am introvert trying his best to be an extrovert 🚀
 - 👩‍💻 Building AI agents with access to wallets @crossmint.
 - ⚽ I'm a football nerd
 
