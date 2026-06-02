@@ -7,9 +7,9 @@ Interested in working together? Shoot a DM 😄
 
 - ✳️ Currently learning to write CUDA kernels
 - 👩‍💻 Building & shipping AI agents on steroids
-- 🎸🎸🎸🎸🎸🎸🎸🎸🎸🎸🎸
+- 🎸
 - 🪩 Love house music
-- 🕹️ Ex-competitive Valorant player
+- ⛷️ Ex-competitive skier
 
 ## Github Stats
 <p align="center">
