@@ -2,7 +2,9 @@
 <img src="https://komarev.com/ghpvc/?username=Arshroop-Saini&label=Profile%20views&color=70a5fd&style=flat" alt="Profile views" />
 
 Hi, I'm Arsh ✌️, a 20 year old Entrepreneur.
+
 Interested in working together? Shoot a DM 😄
+
 - ⭐️ Currently learning how to write a CUDA Kernel.
 - 👩‍💻 Building & shipping on steroids
 - ⚡️ I play the guitar
