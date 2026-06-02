@@ -5,16 +5,13 @@ Hi, I'm Arsh ✌️, a 20 year old Entrepreneur.
 
 Interested in working together? Shoot a DM 😄
 
-- ⭐️ Currently learning how to write a CUDA Kernel.
-- 👩‍💻 Building & shipping on steroids
+- ⭐️ Currently learning to write CUDA kernels
+- 👩‍💻 Building & shipping AI agents on steroids
 - ⚡️ I play the guitar
-- 🪩 I love house music
+- 🪩 Love house music
+- 🕹️ Ex-competitive Valorant player
 
 ## Github Stats
-<p align="center">
-    <img height="190" src="https://github-readme-stats.vercel.app/api?username=Arshroop-Saini&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight" alt="stats" />
-    <img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arshroop-Saini&langs_count=8&hide=c%2B%2B&layout=compact&theme=tokyonight" alt="top langs" />
-</p>
 <p align="center">
     <img src="https://streak-stats.demolab.com/?user=Arshroop-Saini&theme=tokyonight" alt="streak" />
 </p>
