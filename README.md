@@ -5,9 +5,9 @@ Hi, I'm Arsh ✌️, a 20 year old Entrepreneur.
 
 Interested in working together? Shoot a DM 😄
 
-- ⭐️ Currently learning to write CUDA kernels
+- ✳️ Currently learning to write CUDA kernels
 - 👩‍💻 Building & shipping AI agents on steroids
-- ⚡️ I play the guitar
+- 🎸🎸🎸🎸🎸🎸🎸🎸🎸🎸🎸
 - 🪩 Love house music
 - 🕹️ Ex-competitive Valorant player
 
