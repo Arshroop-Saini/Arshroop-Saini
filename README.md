@@ -1,7 +1,7 @@
 ## About Me
 <img src="https://komarev.com/ghpvc/?username=Arshroop-Saini&label=Profile%20views&color=70a5fd&style=flat" alt="Profile views" />
 
-Hi, I'm Arsh, a 20 year old Entrepreneur.
+Hi, I'm Arsh, a 20 year old programmer with a vision to put a dent in the universe. I'm neither pessimistic nor optimistic, but if I put my mind on something, I'm hell-bent on making it happen.
 
 Interested in working together? Shoot a DM 😄
 
