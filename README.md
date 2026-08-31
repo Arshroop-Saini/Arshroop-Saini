@@ -6,10 +6,9 @@ Hi, I'm Arsh, a 20 year old programmer with a vision to put a dent in the univer
 Interested in working together? Shoot a DM 😄
 
 - ✳️ Currently learning to write CUDA kernels
-- 🧑‍💻 Building & shipping AI agents on steroids
-- 🎸
-- 🪩 Producing classic & minimal House music.
-- ⛷️
+- 🧑‍💻 Building & shipping AI agents
+- 🪩 Producing classic & minimal House music
+- 🎸 ⛷️
 
 ## Github Stats
 <p align="center">
