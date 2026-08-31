@@ -9,7 +9,7 @@ Interested in working together? Shoot a DM 😄
 - 🧑‍💻 Building & shipping AI agents on steroids
 - 🎸
 - 🪩 Love house music
-- ⛷️ Ex-competitive skier
+- ⛷️
 
 ## Github Stats
 <p align="center">
