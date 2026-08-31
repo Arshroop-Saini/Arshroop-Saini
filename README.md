@@ -8,7 +8,7 @@ Interested in working together? Shoot a DM 😄
 - ✳️ Currently learning to write CUDA kernels
 - 🧑‍💻 Building & shipping AI agents on steroids
 - 🎸
-- 🪩 Love house music
+- 🪩 Producing classic & minimal House music.
 - ⛷️
 
 ## Github Stats
